@@ -1,0 +1,62 @@
+**Making a Sandwich**
+
+1. Go to the refrigerator
+  1.1 Open the refrigerator
+    1.1.1 Walk from kitchen to refrigerator
+    1.1.2 Reach out and grab onto the refrigerator door
+    1.1.3 Pull door open
+  1.2 Grab ingredients
+    1.2.1 Grab Mayo
+    1.2.2 Grab Mustard
+    1.2.3 Grab sliced ham
+    1.2.4 Grab sliced cheese
+    1.2.5 Grab lettuce
+  1.3 Close refrigerator door
+    1.3.1 Reach out and grab refrigerator door
+    1.3.2 Swing door shut
+  1.4 Return to the kitchen
+    1.4.1 Walk back to kitchen
+    1.4.2 Set ingredients on the counter
+2. Go to the pantry
+  2.1 Open the pantry
+    2.1.1 Walk over to the pantry
+    2.1.2 Reach out and grab onto pantry door
+    2.1.3 Swing open pantry door
+  2.2 Grab ingredients
+    2.2.1 Grab bread
+  2.3 Close pantry door
+    2.3.1 Reach out and grab pantry door
+    2.3.2 Swing pantry door closed
+  2.4 Return to the kitchen
+    2.4.1 Walk back to kitchen and place items on the counter
+3. Make the Sandwich
+  3.1 Toast bread
+    3.1.1 Take two slices of bread out of the bag.
+    3.1.2 Place one slice of bread in each slot of the toaster
+    3.1.3 Toast bread until slightly golden brown
+    3.1.4 While bread is toasting take a knife and a plate from the cabinets
+    3.1.5 Remove slices of bread from toaster and place on plate
+  3.2 Apply condiments to bread
+    3.2.1 Open jar of mayo
+    3.2.2 With the knife, apply enough mayo to lightly cover one side of bread
+    3.2.3 Place the lid back on the Mayo
+    3.2.4 Open jar of Mustard
+    3.2.5 With knife, apply enough mustard to cover one side of the other slice
+          of bread
+    3.2.6 Place the lid back on the jar of mustard
+  3.3 Add meat and cheese
+    3.3.1 Place both slices of bread condiment side face up on the plate
+    3.3.2 Open container of sliced ham and apply 3-4 slices to one slice of the
+          bread
+    3.3.3 Close container of ham
+    3.3.4 Open container of sliced cheese
+    3.3.5 Place one slice of cheese on top of meat
+    3.3.6 Close container of cheese
+  3.4 Add lettuce
+    3.4.1 Open bag or container of lettuce
+    3.4.2 Add desired amount of lettuce on top of cheese
+    3.4.3 Close container of lettuce
+  3.5 Combine two halves of sandwich
+    3.5.1 Pickup the other side of bread
+    3.5.2 Place slice of bread, condiment side face down on top of lettuce
+    3.5.3 If desired cut the sandwhich into halfs or triangles
