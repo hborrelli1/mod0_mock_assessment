@@ -50,7 +50,7 @@
           bread
     3.3.3 Close container of ham
     3.3.4 Open container of sliced cheese
-    3.3.5 Place one slice of cheese on top of meat
+      3.3.5 Place one slice of cheese on top of meat
     3.3.6 Close container of cheese
   3.4 Add lettuce
     3.4.1 Open bag or container of lettuce
