@@ -1,5 +1,7 @@
 ## Notating Classes
 
+### Boat
+
 **Attributes:**  
 boatLength (integer)  
 boatColor (string)  
