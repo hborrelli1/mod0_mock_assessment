@@ -36,7 +36,7 @@ bowRail (true)
 depthFinder (true)  
 
 **Methods**  
-startEngine - turns engine on  
-addPassenger 1
-addFuel 2
-changeColor "blue"
+startEngine - turns engine on    
+addPassenger 1  
+addFuel 2  
+changeColor "blue"  
